@@ -72,16 +72,6 @@ Given the path of a file and count the number of occurrence of a provided word. 
 
 Create a zip file with the content of a given folder. The path of the folder should be a query parameter.
 
-### 11. Containerize the application
-
-Use the Dockerfile provided to create a docker image of the application. There are some comments in the Dockerfile that will help you to complete the exercise. 
-
-In order to build, run and test the docker image, you can use Copilot as well to generate the commands. 
-
-For instance, create a DOCKER.md file where you can store the commands to build, run and test the docker image. You will notice that Copilot will also help you to document your project and commands. 
-
-Examples of steps to document: Build the container image, Run the container, Test the container.
-
 
 
 
